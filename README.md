@@ -7,7 +7,7 @@
 
 
 <h3 align="left">Connect with me Via:</h3>
-<p style="font-size: 18px; color: red;" align="left">
+<p color="red" align="left">
 <a href="https://www.fb.com/Shariful797" target="_blank">Facebook</a>
 <br>
 <a href="https://www.twitter.com/Shariful797" target="_blank">Twitter</a>
