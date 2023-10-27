@@ -2,15 +2,15 @@
 <h3 align="center">This is my first project using HTML, CSS, and JavaScript, and with it I am beginning my Development Journey.</h3>
 
 
-<h3 align="center"> <a href="https://shariful797.github.io/beginning-project/" target="blank">Click to see the project on Live</a> </h3>
+<h3 align="center"> <a href="https://shariful797.github.io/beginning-project/" target="_blank" >Click to see the project on Live</a> </h3>
 
 <h3 align="left">Connect with me Via:</h3>
 <p align="left">
-<a href="https://www.fb.com/Shariful797" target="blank">Facebook</a>
+<a href="https://www.fb.com/Shariful797" target="_blank">Facebook</a>
 <br>
-<a href="https://www.twitter.com/Shariful797" target="blank">Twitter</a>
+<a href="https://www.twitter.com/Shariful797" target="_blank">Twitter</a>
 <br>
-<a href="https://www.instagram.com/Shariful797" target="blank">Instagram</a>
+<a href="https://www.instagram.com/Shariful797" target="_blank">Instagram</a>
 <br>
-<a href="https://www.linkedin.com/in/shariful797" target="blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/shariful797" target="_blank">LinkedIn</a>
 </p>
