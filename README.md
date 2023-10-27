@@ -4,6 +4,7 @@
 
 [Click to see the project on Live](https://shariful797.github.io/beginning-project/){:target="_blank"}
 
+[Click to visit page and link](https://example.com/){:target="_blank"}
 
 <h2 align="center"> <a href="https://shariful797.github.io/beginning-project/" target="_blank" >Click to see the project on Live</a> </h2>
 
