@@ -3,7 +3,7 @@
 
 
 
-![Click to see the project on Live](https://shariful797.github.io/beginning-project/) 
+[Click to see the project on Live](https://shariful797.github.io/beginning-project/) 
 
 
 
