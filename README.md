@@ -2,7 +2,7 @@
 <h3 align="center">This is my first project using HTML, CSS, and JavaScript, and with it I am beginning my Development Journey.</h3>
 
 
-<h4 align="center"> <a href="https://shariful797.github.io/beginning-project/" target="blank">Click to see the project on Live</a> </h4>
+<h3 align="center"> <a href="https://shariful797.github.io/beginning-project/" target="blank">Click to see the project on Live</a> </h3>
 
 <h3 align="left">Connect with me Via:</h3>
 <p align="left">
