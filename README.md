@@ -3,9 +3,9 @@
 
 
 
-[Click to see the project on Live](https://shariful797.github.io/beginning-project/ target="_blank") 
+[Click to see the project on Live](https://shariful797.github.io/beginning-project/) 
 
-
+<h2 align="center"> <a href="https://shariful797.github.io/beginning-project/" target="_blank" >Click to see the project on Live</a> </h2>
 
 <h3 align="left">Connect with me Via:</h3>
 <p align="left">
