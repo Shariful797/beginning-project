@@ -2,14 +2,12 @@
 <h3 align="center">This is my first project using HTML, CSS, and JavaScript, and with it I am beginning my Development Journey.</h3>
 
 
-[Click to see the project on Live](https://shariful797.github.io/beginning-project/){:target="_blank"}
-
-[Click to visit page and link](https://example.com/){:target="_blank"}
-
 <h2 align="center"> <a href="https://shariful797.github.io/beginning-project/" target="_blank" >Click to see the project on Live</a> </h2>
 
+
+
 <h3 align="left">Connect with me Via:</h3>
-<p align="left">
+<p style="font-size: 18px; color: red;" align="left">
 <a href="https://www.fb.com/Shariful797" target="_blank">Facebook</a>
 <br>
 <a href="https://www.twitter.com/Shariful797" target="_blank">Twitter</a>
