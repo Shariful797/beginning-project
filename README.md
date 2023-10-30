@@ -1,3 +1,4 @@
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Shariful797/beginning-project)
 <br>
 <h1 align="center">Assalamu Alaikum, I'm Md. Shariful Islam</h1>
 <h3 align="center">This is my first project using HTML, CSS, and JavaScript, and with it I am beginning my Development Journey.</h3>
